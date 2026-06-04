@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "docx": "^9.6.1",
+    "fs-extra": "^11.3.5"
+  }
+}

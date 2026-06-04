@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    @apply antialiased text-blue-900 bg-blue-50;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    cursor: pointer;
+  }
+
+  input[type="range"]::-webkit-slider-runnable-track {
+    @apply bg-blue-200 rounded-full h-1.5;
+  }
+
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    @apply bg-blue-600 w-4 h-4 rounded-full -mt-1.25 cursor-pointer transition-transform hover:scale-125;
+    box-shadow: 0 0 12px rgba(37, 99, 235, 0.4);
+  }
+
+  input[type="range"]::-moz-range-track {
+    @apply bg-blue-200 rounded-full h-1.5;
+  }
+
+  input[type="range"]::-moz-range-thumb {
+    @apply bg-blue-600 w-4 h-4 rounded-full border-0 cursor-pointer;
+    box-shadow: 0 0 12px rgba(37, 99, 235, 0.4);
+  }
+
+  /* Custom scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-blue-50;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-blue-300 rounded-full transition-colors hover:bg-blue-400;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/80 backdrop-blur-md border border-white/20;
+  }
+}

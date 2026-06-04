@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sidebar-width: 240px;
+  --sidebar-collapsed-width: 64px;
+  --topbar-height: 56px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  @apply bg-surface text-body font-sans;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-border rounded-full;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-muted;
+}
+
+/* Focus ring */
+:focus-visible {
+  @apply outline-none ring-2 ring-matrix-blue ring-offset-2;
+}
+
+/* Transitions */
+* {
+  transition-property: color, background-color, border-color, box-shadow;
+  transition-duration: 150ms;
+}
+
+/* Table alternating rows */
+.table-row-alt:nth-child(even) {
+  @apply bg-matrix-paleBlue;
+}
+
+/* Health ring animation */
+.health-ring-progress {
+  transition: stroke-dashoffset 0.5s ease-in-out;
+}
+
+@layer components {
+  .card {
+    @apply bg-white rounded-xl border border-border shadow-sm p-5;
+  }
+  
+  .btn-primary {
+    @apply bg-matrix-blue text-white px-4 py-2 rounded-lg font-medium text-sm
+           hover:bg-blue-700 active:bg-blue-800 disabled:opacity-50 disabled:cursor-not-allowed
+           transition-colors flex items-center gap-2;
+  }
+  
+  .btn-secondary {
+    @apply bg-white text-matrix-blue px-4 py-2 rounded-lg font-medium text-sm
+           border border-matrix-blue hover:bg-matrix-paleBlue active:bg-matrix-lightBlue
+           disabled:opacity-50 disabled:cursor-not-allowed transition-colors flex items-center gap-2;
+  }
+  
+  .btn-cyan {
+    @apply bg-matrix-cyan text-white px-4 py-2 rounded-lg font-medium text-sm
+           hover:bg-[#0090A8] active:bg-[#007A8F] disabled:opacity-50 disabled:cursor-not-allowed
+           transition-colors flex items-center gap-2;
+  }
+  
+  .btn-ghost {
+    @apply bg-transparent text-body px-4 py-2 rounded-lg font-medium text-sm
+           hover:bg-matrix-paleBlue border border-border
+           disabled:opacity-50 disabled:cursor-not-allowed transition-colors flex items-center gap-2;
+  }
+  
+  .input {
+    @apply w-full px-3 py-2 rounded-lg border border-border bg-white text-body text-sm
+           placeholder:text-muted focus:outline-none focus:ring-2 focus:ring-matrix-blue focus:border-matrix-blue
+           disabled:bg-surface disabled:cursor-not-allowed transition-colors;
+  }
+  
+  .label {
+    @apply block text-xs font-medium text-muted mb-1;
+  }
+  
+  .page-title {
+    @apply text-[28px] font-bold text-matrix-navy;
+  }
+  
+  .section-header {
+    @apply text-[20px] font-semibold text-matrix-blue;
+  }
+  
+  .card-title {
+    @apply text-[16px] font-bold text-matrix-navy;
+  }
+}

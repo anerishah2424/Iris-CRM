@@ -1,0 +1,7 @@
+[
+  {"zone_name": "North", "states": ["Delhi", "Haryana", "Punjab", "Uttar Pradesh", "Himachal Pradesh", "Jammu & Kashmir"], "sales_office": "Delhi"},
+  {"zone_name": "South", "states": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Kerala", "Telangana"], "sales_office": "Bangalore"},
+  {"zone_name": "East", "states": ["West Bengal", "Odisha", "Bihar", "Jharkhand", "Assam"], "sales_office": "Kolkata"},
+  {"zone_name": "West", "states": ["Gujarat", "Maharashtra", "Rajasthan", "Goa"], "sales_office": "Ahmedabad"},
+  {"zone_name": "Central", "states": ["Madhya Pradesh", "Chhattisgarh", "Uttarakhand"], "sales_office": "Bhopal"}
+]

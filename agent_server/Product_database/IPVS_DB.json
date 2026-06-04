@@ -1,0 +1,1272 @@
+[
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Production Floor / Assembly Line",
+    "recommended_product": "MIDR50 (5MP) \u2014 fixed focal for static lines",
+    "product_name": "SATATYA MIDR50FL28CWP P2",
+    "sap_code": "3000001769",
+    "type": "Camera",
+    "notes_key_selling_points": "5MP for worker & equipment ID; built-in mic; EIVA zones protect machinery access",
+    "unit_price": 5980.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Production Floor / Assembly Line",
+    "recommended_product": "CIBR50 MVF (5MP) \u2014 variable zoom on wide floors",
+    "product_name": "SATATYA CIBR50MVL12CWP P2",
+    "sap_code": "3000001739",
+    "type": "Camera",
+    "notes_key_selling_points": "MVF for variable zoom; NEMA 4X rated for dusty/chemical zones",
+    "unit_price": 15008.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Production Floor / Assembly Line",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD capacity",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Production Floor / Assembly Line",
+    "recommended_product": "EIVA (zone intrusion + people/vehicle detection)",
+    "product_name": "SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Zone intrusion + people/vehicle detection; avoids false alarms from shadows",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Hazardous / Chemical / Dusty Zone",
+    "recommended_product": "CIBR50/CIDR50 or CIBR80/CIDR80 (Project series, NEMA 4X, IK10)",
+    "product_name": "SATATYA CIDR80MVL12CWP P2",
+    "sap_code": "3000001754",
+    "type": "Camera",
+    "notes_key_selling_points": "NEMA 4X + IK10 mandatory; IP67 not enough here; UL certified",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Hazardous / Chemical / Dusty Zone",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Hazardous / Chemical / Dusty Zone",
+    "recommended_product": "EIVA (intrusion detection in danger zones)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Intrusion detection in danger zones",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Main Factory Gate / Vehicle Entry",
+    "recommended_product": "CIBR80 MVF (8MP, LPR angle)",
+    "product_name": "SATATYA CIDR80MVL12CWP P2",
+    "sap_code": "3000001539",
+    "type": "Camera",
+    "notes_key_selling_points": "8MP MVF for clear LPR even at oblique angles; mount at 3\u20134m height",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Main Factory Gate / Vehicle Entry",
+    "recommended_product": "SITW80 Dual LED (deterrence)",
+    "product_name": "SATATYA SITW80FL60CWP",
+    "sap_code": "3000001864",
+    "type": "Camera",
+    "notes_key_selling_points": "Colour after-hours + active deterrence + speaker",
+    "unit_price": 8750.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Main Factory Gate / Vehicle Entry",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD) + SAMAS PLT",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Main Factory Gate / Vehicle Entry",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PLT \u2013 VMS Platform",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "Enterprise VMS required for ANPR + CREAM integration",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Main Factory Gate / Vehicle Entry",
+    "recommended_product": "ANPR (boom trigger chain)",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Auto-identifies delivery/contractor vehicles",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Main Factory Gate / Vehicle Entry",
+    "recommended_product": "CREAM (boom trigger chain)",
+    "product_name": "SATATYA SAMAS CREAM5 \u2013 Event Automation (5 scenarios)",
+    "sap_code": "3000000856",
+    "type": "Software",
+    "notes_key_selling_points": "Fires boom open + guard alert + clip saved simultaneously",
+    "unit_price": 5400.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Worker Entrance / Access Control",
+    "recommended_product": "MIDR50 Dome (5MP, Built-in Mic) \u2014 indoor",
+    "product_name": "SATATYA MIDR50FL28CWP P2",
+    "sap_code": "3000001769",
+    "type": "Camera",
+    "notes_key_selling_points": "Built-in mic eliminates separate audio device cost",
+    "unit_price": 5980.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Worker Entrance / Access Control",
+    "recommended_product": "CIDR50 (outdoor, if exposed)",
+    "product_name": "SATATYA CIDR50FL28CWP P2",
+    "sap_code": "3000001740",
+    "type": "Camera",
+    "notes_key_selling_points": "Use if entry is semi-exposed/outdoor",
+    "unit_price": 18975.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Worker Entrance / Access Control",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Worker Entrance / Access Control",
+    "recommended_product": "EIVA (tailgating detection)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Tailgating prevents multiple people entering on one badge; combine with COSEC AC",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Dispatch / Loading Bay Yard",
+    "recommended_product": "CIBR80 MVF (LPR)",
+    "product_name": "SATATYA CIDR80MVL12CWP P2",
+    "sap_code": "3000001539",
+    "type": "Camera",
+    "notes_key_selling_points": "Logs every dispatch with timestamp + plate",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Dispatch / Loading Bay Yard",
+    "recommended_product": "SITW80 Dual LED (bay area)",
+    "product_name": "SATATYA SITW80FL60CWP",
+    "sap_code": "3000001864",
+    "type": "Camera",
+    "notes_key_selling_points": "Colour coverage of loading bay 24/7",
+    "unit_price": 8750.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Dispatch / Loading Bay Yard",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD) + SAMAS PLT",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Dispatch / Loading Bay Yard",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PLT \u2013 VMS Platform",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "Enterprise VMS for ANPR + VTPM + CREAM",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Dispatch / Loading Bay Yard",
+    "recommended_product": "ANPR + VTPM (vehicle slot/bay) + CREAM",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Vehicle in/out with timestamp",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Dispatch / Loading Bay Yard",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS VTPM50 \u2013 Parking/Bay Mgmt (50 slots)",
+    "sap_code": "3000000860",
+    "type": "Software",
+    "notes_key_selling_points": "Tracks bay occupancy in real time",
+    "unit_price": 32400.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Dispatch / Loading Bay Yard",
+    "recommended_product": "",
+    "product_name": "SAMAS CREAM5 \u2013 Event Automation (5 scenarios)",
+    "sap_code": "3000000856",
+    "type": "Software",
+    "notes_key_selling_points": "Triggers gate open + driver SMS + dispatch record",
+    "unit_price": 5400.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Perimeter / Boundary Wall",
+    "recommended_product": "CIBR50 Bullet (5MP, 50m IR) \u2014 long boundary spans",
+    "product_name": "SATATYA CIBR50FL28CWP P2",
+    "sap_code": "3000001737",
+    "type": "Camera",
+    "notes_key_selling_points": "50m IR covers long fence spans; EIVA tripwire sends instant alert",
+    "unit_price": 18975.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Perimeter / Boundary Wall",
+    "recommended_product": "PTZ 5040P (38x) for wide-area patrol",
+    "product_name": "SATATYA PTZ5040P",
+    "sap_code": "3000001714",
+    "type": "Camera",
+    "notes_key_selling_points": "300m IR range \u2014 1 PTZ replaces 4\u20135 fixed cameras on long perimeter",
+    "unit_price": 94875.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Perimeter / Boundary Wall",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Perimeter / Boundary Wall",
+    "recommended_product": "EIVA (perimeter tripwire, after-hours alert)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Perimeter tripwire; after-hours alert before intruder reaches building",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Roof / Elevated Outdoor Areas",
+    "recommended_product": "CIBR50 / CIBR80 Bullet (NEMA 4X, UV-resistant metal housing)",
+    "product_name": "SATATYA CIBR50FL28CWP P2",
+    "sap_code": "3000001737",
+    "type": "Camera",
+    "notes_key_selling_points": "Metal housing + NEMA 4X; handles direct sun, rain, extreme temperatures",
+    "unit_price": 18975.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Roof / Elevated Outdoor Areas",
+    "recommended_product": "CIBR80 option for higher resolution",
+    "product_name": "SATATYA CIDR80FL28CWP P2",
+    "sap_code": "3000001752",
+    "type": "Camera",
+    "notes_key_selling_points": "8MP option for rooftop; NEMA 4X; avoid plastic housing PROF series",
+    "unit_price": 22425.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Roof / Elevated Outdoor Areas",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Roof / Elevated Outdoor Areas",
+    "recommended_product": "EIVA (motion + intrusion)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Motion + intrusion detection",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Server Room / Control Room",
+    "recommended_product": "MITC80 All-Color (8MP, 24/7 colour evidence)",
+    "product_name": "SATATYA MITC80FL28CWS P2",
+    "sap_code": "3000001779",
+    "type": "Camera",
+    "notes_key_selling_points": "24/7 colour evidence \u2014 critical for insider theft; no IR washout on screens",
+    "unit_price": 6500.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Server Room / Control Room",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Server Room / Control Room",
+    "recommended_product": "EIVA (tailgating + no-motion alert)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Tailgating + no-motion alert if room unattended unexpectedly",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Cafeteria / Common Areas",
+    "recommended_product": "MIDR20 / MIDR50 Dome (2\u20135MP)",
+    "product_name": "SATATYA MIDR20FL36CWS P2",
+    "sap_code": "3000001799",
+    "type": "Camera",
+    "notes_key_selling_points": "2MP sufficient for common areas; standard coverage",
+    "unit_price": 3565.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Cafeteria / Common Areas",
+    "recommended_product": "MIDR50 (upgrade option for evidence quality)",
+    "product_name": "SATATYA MIDR50FL28CWP P2",
+    "sap_code": "3000001769",
+    "type": "Camera",
+    "notes_key_selling_points": "Upgrade to 5MP if evidence quality needed",
+    "unit_price": 5980.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Cafeteria / Common Areas",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Cafeteria / Common Areas",
+    "recommended_product": "PMTC (occupancy \u2014 optional)",
+    "product_name": "SATATYA SAMAS PMTC3 \u2013 People Counting Licence (3 cams)",
+    "sap_code": "3000000893",
+    "type": "Software",
+    "notes_key_selling_points": "Meal-rush monitoring and canteen capacity compliance (optional)",
+    "unit_price": 6480.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Parking (Factory Staff)",
+    "recommended_product": "CIBR50 MVF (LPR) + SITW50 Dual LED",
+    "product_name": "SATATYA CIBR50MVL12CWP P2",
+    "sap_code": "3000001739",
+    "type": "Camera",
+    "notes_key_selling_points": "Staff vehicle ANPR whitelist; boom auto-opens for registered vehicles",
+    "unit_price": 15008.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Parking (Factory Staff)",
+    "recommended_product": "SITW80 Dual LED (parking area deterrence)",
+    "product_name": "SATATYA SITW80FL60CWP",
+    "sap_code": "3000001864",
+    "type": "Camera",
+    "notes_key_selling_points": "Parking area deterrence + colour 24/7",
+    "unit_price": 8750.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Parking (Factory Staff)",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD) + SAMAS PLT",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Parking (Factory Staff)",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PLT \u2013 VMS Platform",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "Enterprise VMS for ANPR + VTPM",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Parking (Factory Staff)",
+    "recommended_product": "ANPR + VTPM",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Whitelist registered staff vehicles",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "MANUFACTURING",
+    "location": "Parking (Factory Staff)",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS VTPM50 \u2013 Parking Mgmt (50 slots)",
+    "sap_code": "3000000860",
+    "type": "Software",
+    "notes_key_selling_points": "VTPM 50-slot or 200-slot licence depending on parking capacity",
+    "unit_price": 32400.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Train Coach / Metro Compartment (Onboard)",
+    "recommended_product": "RIDR20 / RIDR50 Ruggedized Dome (EN50155, IP68, IK10, EN45545-HL2)",
+    "product_name": "SATATYA RIDR20FL28CWP P2",
+    "sap_code": "3000001755",
+    "type": "Camera",
+    "notes_key_selling_points": "EN50155 MANDATORY for rolling stock; EN45545-HL2 fire/smoke rating; IP68 for cleaning",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Train Coach / Metro Compartment (Onboard)",
+    "recommended_product": "RIDR50 (5MP upgrade option for onboard)",
+    "product_name": "SATATYA RIDR50FL28CWP P2",
+    "sap_code": "3000001757",
+    "type": "Camera",
+    "notes_key_selling_points": "5MP higher-res option; same EN50155/IP68/IK10 compliance",
+    "unit_price": 22425.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Train Coach / Metro Compartment (Onboard)",
+    "recommended_product": "NVR (onboard, vehicle-grade) or SD Card standalone",
+    "product_name": "SATATYA NVR0801XS P2",
+    "sap_code": "3000001615",
+    "type": "NVR",
+    "notes_key_selling_points": "8 ch onboard NVR; or configure for SD card standalone",
+    "unit_price": 9775.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Platform / Station Concourse",
+    "recommended_product": "CIDR50 MVF Dome (5MP, 50m IR) \u2014 ceiling mount",
+    "product_name": "SATATYA CIDR50FL28CWP P2",
+    "sap_code": "3000001740",
+    "type": "Camera",
+    "notes_key_selling_points": "NEMA 4X for outdoor platform; MVF for digital zoom on incidents",
+    "unit_price": 18975.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Platform / Station Concourse",
+    "recommended_product": "PTZ 5040P (38x) for wide platform overview",
+    "product_name": "SATATYA PTZ5040P",
+    "sap_code": "3000001714",
+    "type": "Camera",
+    "notes_key_selling_points": "Covers full platform from single point; recommended for every major station",
+    "unit_price": 94875.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Platform / Station Concourse",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD) + SAMAS PLT",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Platform / Station Concourse",
+    "recommended_product": "",
+    "product_name": "SATAYA SAMAS PLT \u2013 VMS Platform",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "Enterprise VMS for EIVA + PMTC",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Platform / Station Concourse",
+    "recommended_product": "EIVA + PMTC (crowd density monitoring)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Zone intrusion + crowd behaviour analytics",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Platform / Station Concourse",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PMTC3 \u2013 People Counting Licence (3 cams)",
+    "sap_code": "3000000893",
+    "type": "Software",
+    "notes_key_selling_points": "Crowd density alert prevents stampede situations",
+    "unit_price": 6480.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Entry / Ticketing Gates",
+    "recommended_product": "CIDR50 Dome (5MP) \u2014 passenger face detail",
+    "product_name": "SATATYA CIDR50FL28CWP P2",
+    "sap_code": "3000001740",
+    "type": "Camera",
+    "notes_key_selling_points": "5MP for passenger face identification at gates",
+    "unit_price": 18975.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Entry / Ticketing Gates",
+    "recommended_product": "CIBR80 MVF (8MP, LPR for vehicle drop-off)",
+    "product_name": "SATATYA CIDR80MVL12CWP P2",
+    "sap_code": "3000001539",
+    "type": "Camera",
+    "notes_key_selling_points": "8MP MVF for vehicle LPR at station drop-off/pick-up; NEMA 4X",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Entry / Ticketing Gates",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Entry / Ticketing Gates",
+    "recommended_product": "ANPR (for station road entry)",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Station road-side camera \u2014 NEMA 4X (CIBR project series)",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Entry / Ticketing Gates",
+    "recommended_product": "EIVA (tailgating at gates)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Tailgating detection prevents gate-jumping",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Tunnel / Underground Section",
+    "recommended_product": "RIDR50 / RIDR80 Ruggedized Dome (IP68, EN50155)",
+    "product_name": "SATATYA RIDR50FL28CWP P2",
+    "sap_code": "3000001757",
+    "type": "Camera",
+    "notes_key_selling_points": "IP68 mandatory for tunnel moisture/flooding; EN50155 for vibration",
+    "unit_price": 22425.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Tunnel / Underground Section",
+    "recommended_product": "RIDR50 longer focal for deep tunnel sections",
+    "product_name": "SATATYA RIDR50FL60CWP P2",
+    "sap_code": "3000001776",
+    "type": "Camera",
+    "notes_key_selling_points": "6mm focal for deep/long tunnel sections",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Tunnel / Underground Section",
+    "recommended_product": "NVR (trackside) + VMSP",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "Trackside NVR",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Tunnel / Underground Section",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PLT \u2013 VMS Platform",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "VMS for trackside management",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Tunnel / Underground Section",
+    "recommended_product": "EIVA (intrusion/motion)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Intrusion/motion detection in tunnels",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Track-Side Surveillance / Level Crossing",
+    "recommended_product": "CIBR80 MVF Bullet (8MP, 50m IR, NEMA 4X) \u2014 weatherproof, tamper-resistant",
+    "product_name": "SATATYA CIDR80MVL12CWP P2",
+    "sap_code": "3000001539",
+    "type": "Camera",
+    "notes_key_selling_points": "NEMA 4X handles trackside weather; tamper-resistant",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Track-Side Surveillance / Level Crossing",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD) + SAMAS PLT",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Track-Side Surveillance / Level Crossing",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PLT \u2013 VMS Platform",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "Enterprise VMS",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Track-Side Surveillance / Level Crossing",
+    "recommended_product": "ANPR (at level crossing) + CREAM (barrier integration)",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Detects vehicles at unmanned level crossings",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Track-Side Surveillance / Level Crossing",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS CREAM5 \u2013 Event Automation (5 scenarios)",
+    "sap_code": "3000000856",
+    "type": "Software",
+    "notes_key_selling_points": "Auto-triggers barrier + alert to control room",
+    "unit_price": 5400.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Control Room / OCC (Operations Control Centre)",
+    "recommended_product": "MITC80 All-Color Dome (8MP)",
+    "product_name": "SATATYA MITC80FL28CWS P2",
+    "sap_code": "3000001779",
+    "type": "Camera",
+    "notes_key_selling_points": "Colour-always ensures 24/7 evidence quality",
+    "unit_price": 6500.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Control Room / OCC (Operations Control Centre)",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Control Room / OCC (Operations Control Centre)",
+    "recommended_product": "EIVA (tailgating, no-motion alert)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Tailgating + no-motion alert; prevent unauthorised access",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Control Room / OCC (Operations Control Centre)",
+    "recommended_product": "CREAM (auto-lock response)",
+    "product_name": "SATATYA SAMAS CREAM5 \u2013 Event Automation (5 scenarios)",
+    "sap_code": "3000000856",
+    "type": "Software",
+    "notes_key_selling_points": "Auto-lock response via CREAM + access control integration",
+    "unit_price": 5400.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Parking / Kiss-and-Ride",
+    "recommended_product": "CIBR50 MVF (LPR) + SITW50 Dual LED",
+    "product_name": "SATATYA CIBR50MVL12CWP P2",
+    "sap_code": "3000001739",
+    "type": "Camera",
+    "notes_key_selling_points": "Commuter parking permit ANPR management",
+    "unit_price": 15008.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Parking / Kiss-and-Ride",
+    "recommended_product": "SITW Dual LED (parking deterrence)",
+    "product_name": "SATATYA SITW80FL60CWP",
+    "sap_code": "3000001864",
+    "type": "Camera",
+    "notes_key_selling_points": "Colour coverage of parking area 24/7",
+    "unit_price": 8750.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Parking / Kiss-and-Ride",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD) + SAMAS PLT",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Parking / Kiss-and-Ride",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PLT \u2013 VMS Platform",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "Enterprise VMS",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Parking / Kiss-and-Ride",
+    "recommended_product": "ANPR + VTPM",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Manages commuter parking permits",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "RAILWAYS",
+    "location": "Station Parking / Kiss-and-Ride",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS VTPM50 \u2013 Parking Mgmt (50 slots)",
+    "sap_code": "3000000860",
+    "type": "Software",
+    "notes_key_selling_points": "Real-time slot availability on mobile/station display board",
+    "unit_price": 32400.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Main Entrance / Society Gate",
+    "recommended_product": "CIBR50 MVF (5MP, LPR) + SITW50 Dual LED (Deterrence)",
+    "product_name": "SATATYA CIBR50MVL12CWP P2",
+    "sap_code": "3000001739",
+    "type": "Camera",
+    "notes_key_selling_points": "ANPR auto-opens boom for residents; LPR at 0\u201330\u00b0 to plate; mount at 3\u20134m",
+    "unit_price": 15008.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Main Entrance / Society Gate",
+    "recommended_product": "SITW80 Dual LED (deterrence, after-hours colour)",
+    "product_name": "SATATYA SITW80FL60CWP",
+    "sap_code": "3000001864",
+    "type": "Camera",
+    "notes_key_selling_points": "After-hours colour + active deterrence; deters after-hours intrusion",
+    "unit_price": 8750.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Main Entrance / Society Gate",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD) + SAMAS PLT",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Main Entrance / Society Gate",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PLT \u2013 VMS Platform",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "Enterprise VMS for ANPR + VTPM + CREAM",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Main Entrance / Society Gate",
+    "recommended_product": "ANPR + VTPM + CREAM (visitor OTP workflow)",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Auto-opens boom for registered residents",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Main Entrance / Society Gate",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS VTPM50 \u2013 Parking Mgmt (50 slots)",
+    "sap_code": "3000000860",
+    "type": "Software",
+    "notes_key_selling_points": "Visitor slot management at gate",
+    "unit_price": 32400.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Main Entrance / Society Gate",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS CREAM5 \u2013 Event Automation (5 scenarios)",
+    "sap_code": "3000000856",
+    "type": "Software",
+    "notes_key_selling_points": "Visitor OTP workflow \u2014 resident approves via mobile, boom opens only on approval",
+    "unit_price": 5400.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Basement / Podium Parking",
+    "recommended_product": "CIBR50 MVF (LPR, entry/exit) + MIDR50 Dome (internal)",
+    "product_name": "SATATYA CIBR50MVL12CWP P2",
+    "sap_code": "3000001739",
+    "type": "Camera",
+    "notes_key_selling_points": "ANPR tracks each vehicle in/out with timestamp",
+    "unit_price": 15008.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Basement / Podium Parking",
+    "recommended_product": "MIDR50 Dome (5MP, internal parking coverage)",
+    "product_name": "SATATYA MIDR50FL28CWP P2",
+    "sap_code": "3000001769",
+    "type": "Camera",
+    "notes_key_selling_points": "Internal parking area surveillance",
+    "unit_price": 5980.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Basement / Podium Parking",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD) + SAMAS PLT",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Basement / Podium Parking",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PLT \u2013 VMS Platform",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "Enterprise VMS for ANPR + VTPM",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Basement / Podium Parking",
+    "recommended_product": "ANPR + VTPM",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Vehicle in/out log per wing/floor",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Basement / Podium Parking",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS VTPM50 \u2013 Parking Mgmt (50 slots)",
+    "sap_code": "3000000860",
+    "type": "Software",
+    "notes_key_selling_points": "Slot availability per wing/floor; e-map guides visitors to available slot",
+    "unit_price": 32400.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Common Lobby / Reception",
+    "recommended_product": "MIDR50 Dome (5MP, Built-in Mic)",
+    "product_name": "SATATYA MIDR50FL28CWP P2",
+    "sap_code": "3000001769",
+    "type": "Camera",
+    "notes_key_selling_points": "Built-in mic for dispute audio recording; face-identifiable 5MP footage",
+    "unit_price": 5980.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Common Lobby / Reception",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Common Lobby / Reception",
+    "recommended_product": "EIVA (loitering, tailgating)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Loitering alert if non-residents linger; tailgating detection",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Lift / Elevator",
+    "recommended_product": "MITR20 / MIDR20 Dome (2MP, ultra-compact)",
+    "product_name": "SATATYA MITR20FL28CWS P2",
+    "sap_code": "3000001792",
+    "type": "Camera",
+    "notes_key_selling_points": "Fits lift ceiling; 2.8mm wide-angle for full coverage; IP67 handles cleaning",
+    "unit_price": 5980.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Lift / Elevator",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Corridor / Floor Landing",
+    "recommended_product": "MIDR20 / MIDR50 Dome (2\u20135MP, ceiling mount)",
+    "product_name": "SATATYA MIDR20FL36CWS P2",
+    "sap_code": "3000001799",
+    "type": "Camera",
+    "notes_key_selling_points": "3.6mm covers 4\u20136m wide corridor; position at each floor landing",
+    "unit_price": 3565.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Corridor / Floor Landing",
+    "recommended_product": "MIDR50 (upgrade for better evidence quality)",
+    "product_name": "SATATYA MIDR50FL40CWP P2",
+    "sap_code": "3000001770",
+    "type": "Camera",
+    "notes_key_selling_points": "5MP upgrade; 2MP adequate for identification",
+    "unit_price": 5980.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Corridor / Floor Landing",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Club House / Gym / Pool",
+    "recommended_product": "MIDR50 Dome (5MP) \u2014 indoor",
+    "product_name": "SATATYA MIDR50FL28CWP P2",
+    "sap_code": "3000001769",
+    "type": "Camera",
+    "notes_key_selling_points": "Indoor gym/clubhouse; avoid all-color in changing areas (privacy compliance)",
+    "unit_price": 5980.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Club House / Gym / Pool",
+    "recommended_product": "SITW50 Dual LED (pool exterior, deterrence)",
+    "product_name": "SATATYA SITW80FL60CWP",
+    "sap_code": "3000001864",
+    "type": "Camera",
+    "notes_key_selling_points": "After-hours pool area deterrence; colour 24/7",
+    "unit_price": 8750.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Club House / Gym / Pool",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Children's Play Area / Open Garden",
+    "recommended_product": "SITW50 Dual LED (active deterrence, colour 24/7)",
+    "product_name": "SATATYA SITW80FL60CWP",
+    "sap_code": "3000001864",
+    "type": "Camera",
+    "notes_key_selling_points": "Colour footage 24/7 for child safety; speaker auto-broadcasts via CREAM",
+    "unit_price": 8750.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Children's Play Area / Open Garden",
+    "recommended_product": "CIBR50 Bullet (perimeter)",
+    "product_name": "SATATYA CIBR50FL28CWP P2",
+    "sap_code": "3000001737",
+    "type": "Camera",
+    "notes_key_selling_points": "Perimeter coverage of play area boundary; 50m IR",
+    "unit_price": 18975.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Children's Play Area / Open Garden",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Children's Play Area / Open Garden",
+    "recommended_product": "EIVA (loitering, intrusion after hours)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Loitering + intrusion alert if adults loiter outside permitted hours",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Children's Play Area / Open Garden",
+    "recommended_product": "CREAM (audio warning automation)",
+    "product_name": "SATATYA SAMAS CREAM5 \u2013 Event Automation (5 scenarios)",
+    "sap_code": "3000000856",
+    "type": "Software",
+    "notes_key_selling_points": "Auto audio warning broadcast via SITW speaker",
+    "unit_price": 5400.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Building Rooftop / Terrace",
+    "recommended_product": "CIBR50 Bullet (5MP, 50m IR, Metal housing, NEMA 4X)",
+    "product_name": "SATATYA CIBR50FL28CWP P2",
+    "sap_code": "3000001737",
+    "type": "Camera",
+    "notes_key_selling_points": "50m IR covers entire rooftop; NEMA 4X handles direct weather",
+    "unit_price": 18975.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Building Rooftop / Terrace",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Building Rooftop / Terrace",
+    "recommended_product": "EIVA (intrusion, motion)",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "After-hours intrusion alert to security",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Security Guard Cabin / Post",
+    "recommended_product": "MIDR20 Dome (2MP) \u2014 external view of cabin",
+    "product_name": "SATATYA MIDR20FL36CWS P2",
+    "sap_code": "3000001799",
+    "type": "Camera",
+    "notes_key_selling_points": "Records guard presence/absence for audit; add as standard line item",
+    "unit_price": 3565.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Security Guard Cabin / Post",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Staff / Service Entry",
+    "recommended_product": "CIDR50 Dome (5MP) \u2014 semi-exposed entry",
+    "product_name": "SATATYA CIDR50FL28CWP P2",
+    "sap_code": "3000001740",
+    "type": "Camera",
+    "notes_key_selling_points": "Service/vendor entries are high-risk; 5MP captures face + vehicle detail",
+    "unit_price": 18975.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Staff / Service Entry",
+    "recommended_product": "NVR (up to 96 ch, up to 8 HDD)",
+    "product_name": "SATATYA NVR9608X P2",
+    "sap_code": "3000001666",
+    "type": "NVR",
+    "notes_key_selling_points": "96 channel / 8 HDD",
+    "unit_price": 6900.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Staff / Service Entry",
+    "recommended_product": "ANPR (if vehicle entry) + EIVA (tailgating)",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Vehicle entry tracking at service gate",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Staff / Service Entry",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "Tailgating prevention \u2014 piggybacking is common at service entries",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "CIBR80 MVF + CIDR80 + SITW80 (premium zones)",
+    "product_name": "SATATYA CIDR80MVL12CWP P2",
+    "sap_code": "3000001539",
+    "type": "Camera",
+    "notes_key_selling_points": "Premium zone coverage; 8MP MVF",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "SITW80 Dual LED (premium zones, deterrence)",
+    "product_name": "SATATYA SITW80FL60CWP",
+    "sap_code": "3000001864",
+    "type": "Camera",
+    "notes_key_selling_points": "Premium zones + active deterrence",
+    "unit_price": 8750.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "PTZ 5040P for township-level overview",
+    "product_name": "SATATYA PTZ5040P",
+    "sap_code": "3000001714",
+    "type": "Camera",
+    "notes_key_selling_points": "Township-level wide-area patrol; 38x optical",
+    "unit_price": 94875.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "SAMAS PLT Software Only (Customer brings own enterprise server)",
+    "product_name": "SATATYA SAMAS PLT \u2013 VMS Software Only",
+    "sap_code": "3000000846",
+    "type": "Software",
+    "notes_key_selling_points": "Above 255 cameras: VMSP appliance NOT offered \u2014 SAMAS PLT on customer hardware",
+    "unit_price": null
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "Camera Licences (CAM100 packs) for scaling",
+    "product_name": "SATATYA SAMAS CAM100 \u2013 Camera Licence (100 cam add-on)",
+    "sap_code": "3000000402",
+    "type": "Software",
+    "notes_key_selling_points": "Scale in CAM100 packs; no upper camera limit with SAMAS PLT",
+    "unit_price": 360000.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "ANPR + VTPM + EIVA + PMTC + CREAM",
+    "product_name": "SATATYA SAMAS ANPR3 \u2013 LPR Licence (3 cams)",
+    "sap_code": "3000000854",
+    "type": "Software",
+    "notes_key_selling_points": "Township-wide vehicle management",
+    "unit_price": 19440.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS VTPM50 \u2013 Parking Mgmt (50 slots)",
+    "sap_code": "3000000860",
+    "type": "Software",
+    "notes_key_selling_points": "Per-block parking management",
+    "unit_price": 32400.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS EIVA3 \u2013 AI Analytics Licence (3 cams)",
+    "sap_code": "3000000851",
+    "type": "Software",
+    "notes_key_selling_points": "AI analytics per zone",
+    "unit_price": 9720.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS PMTC3 \u2013 People Counting Licence (3 cams)",
+    "sap_code": "3000000893",
+    "type": "Software",
+    "notes_key_selling_points": "Occupancy monitoring across common areas",
+    "unit_price": 6480.0
+  },
+  {
+    "industry_scenario": "REAL ESTATE",
+    "location": "Large Township / Multiple Blocks (>255 cameras)",
+    "recommended_product": "",
+    "product_name": "SATATYA SAMAS CREAM5 \u2013 Event Automation (5 scenarios)",
+    "sap_code": "3000000856",
+    "type": "Software",
+    "notes_key_selling_points": "Multi-block automated rule engine (AND/OR/NOT logic)",
+    "unit_price": 5400.0
+  }
+]
