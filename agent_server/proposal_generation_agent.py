@@ -1012,7 +1012,7 @@ Packer.toBuffer(doc).then(buffer => {{
 async def main(data):
     """Main execution"""
     
-    api_key = "AIzaSyBu8T9m8EJPCXGHKVXKQ6Gb6o06sbNo0ew"
+    api_key = "T9m8EJPCXGHKVXKQ6Gb6o06sbNo0ew"
 
     if not api_key:
         print(" GEMINI_API_KEY not set")
