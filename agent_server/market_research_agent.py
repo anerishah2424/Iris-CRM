@@ -149,7 +149,7 @@ class ResearchOrchestrator:
 async def main(data=None):
     """Main execution"""
     
-    api_key = "AIzaSyBu8T9m8EJPCXGHKVXKQ6Gb6o06sbNo0ew"
+    api_key = "AIzaSyBu8T9m8EJPCXGHK"
 
     if not api_key:
         print(" GEMINI_API_KEY not set")
